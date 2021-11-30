@@ -1,0 +1,16 @@
+{
+  "name": "website-screenshooter",
+  "version": "0.0.1",
+  "description": "application to grab screenshots from websites in different resolutions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Batista",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "puppeteer": "^12.0.1"
+  }
+}
